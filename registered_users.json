@@ -1,0 +1,26 @@
+[
+    {
+        "name": "claraa",
+        "username": "claraa",
+        "email": "claraa@example.com",
+        "password_hash": "5b704e26a62275fcfe97e43dfe16337ed6e0278dd7a3941ebd7879069eb9e92f"
+    },
+    {
+        "name": "M.Fitrah Aidil Harahap",
+        "username": "Aidil",
+        "email": "aidil@example.com",
+        "password_hash": "a57aabc3830399779c52131c56b6e80e52d60deadd1717375a6597517b8ea16e"
+    },
+    {
+        "name": "Arya Fharezi",
+        "username": "Arya",
+        "email": "arya@example.com",
+        "password_hash": "882c4ec6131d0a172d51402072c792bb38d4c72ee48078965279cada1ee9a94b"
+    },
+    {
+        "name": "Vanessa",
+        "username": "Vanes",
+        "email": "vanes@example.com",
+        "password_hash": "ad8f8b5b7a2c12153ec5a2ed7b1e37c9c0ff47ecf286913ef068afd493e3d245"
+    }
+]
